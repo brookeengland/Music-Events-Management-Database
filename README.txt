@@ -1,8 +1,4 @@
-Brooke England, Raneem Rahman
-2429052, 2391103
-brengland@chapman.edu, rrahman@chapman.edu
-CPSC 408-01
-Final Project
+Contributors: Brooke England, Raneem Rahman
 
 INTRUCTIONS:
 - Start the program with python3 musicApp.py
